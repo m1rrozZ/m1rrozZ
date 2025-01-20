@@ -1,12 +1,10 @@
-# 👋 Hello, I'm m1rrozZ.
+👋 Hello, I'm m1rrozZ!  
+Welcome to my GitHub space, where I explore, learn, and bring ideas to life. Here's a little about me:
 
-Welcome to my space on GitHub! This is where I explore, learn, and create. Here's a little bit about me:
+👀 **Interests:** Programming, animation, 3D modeling, video editing, and experimenting with creative projects.  
+🌱 **Currently studying:** I'm diving deep into programming languages like C++, C#, C, and Python, while exploring libraries and frameworks to bring my ideas to reality.  
+💻 **Goals:** To break programming down piece by piece and master the craft.  
+📫 **How to contact me:** You can reach me on Telegram [@m1rrozZ](https://t.me/m1rrozZ). Check out my TG channel: [m1rR's | Workspace](https://t.me/m1rrW).  
+⚡ **Fun fact:** I see programming as an art form—logical, yet endlessly creative. 🎨  
 
-- 👀 **Interest:** Programming, animation, modeling, editing and experimenting with creative projects.
-- 🌱 **Currently studying:** Currently immersing myself in programming languages such as C++, C#, C, Python, diving into libraries, frameworks to realize my ideas.
-- 💻 **Objectives:** Take programming apart piece by piece.
-- 📫 **How to contact me:** Currently, I can only be contacted via Telegram (@m1rrozZ).
-                            My TG channel: https://t.me/m1rrW
-- ⚡ **Interesting fact:** I treat programming as an art - logical and endlessly creative. 🎨
-
-Thanks for visiting, and feel free to chat if you're working on something interesting or just want to share ideas!
+Thanks for stopping by! 
