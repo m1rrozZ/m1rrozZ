@@ -1,4 +1,5 @@
-👋 Hello, I'm m1rrozZ!  
+# 👋 Hello, I'm m1rrozZ!  
+
 Welcome to my GitHub space, where I explore, learn, and bring ideas to life. Here's a little about me:
 
 👀 **Interests:** Programming, animation, 3D modeling, video editing, and experimenting with creative projects.  
