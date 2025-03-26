@@ -1,11 +1,9 @@
-# 👋 Hello, I'm m1rrozZ!  
+# 👋 Hello, I'm Alex!  
 
-Welcome to my GitHub space, where I explore, learn, and bring ideas to life. Here's a little about me:
+Welcome to my GitHub! I work on various projects here and am constantly developing my programming skills. Here's a little bit about myself:
 
-👀 **Interests:** Programming, animation, 3D modeling, video editing, and experimenting with creative projects.  
-🌱 **Currently studying:** I'm diving deep into programming languages like C++, C#, C, and Python, while exploring libraries and frameworks to bring my ideas to reality.  
-💻 **Goals:** To break programming down piece by piece and master the craft.  
-📫 **How to contact me:** You can reach me on Telegram [@m1rrozZ](https://t.me/m1rrozZ). Check out my TG channel: [m1rR's | Workspace](https://t.me/m1rrW).  
-⚡ **Fun fact:** I see programming as an art form—logical, yet endlessly creative. 🎨  
+👨‍💻 Interests: Programming, video editing, photoshop and more. I'm passionate about software development and building various creative projects, from games to graphic applications.
 
-Thanks for stopping by! 
+🎯 Goals: My goal is to master programming and become a highly skilled developer by understanding different aspects of technology and applying them to real-world projects. I strive for a deep understanding of programming languages, frameworks, and libraries.
+
+📫 How to contact me: You can write to me in Telegram @m1rrozZ. My channel: [m1rR's | Workspace](https://t.me/m1rrW)
