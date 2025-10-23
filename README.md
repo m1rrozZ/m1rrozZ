@@ -1,9 +1,8 @@
-# 👋 Hello, I'm Alex!  
+# ✌️ Hello.. 
 
-Welcome to my GitHub! I work on various projects here and am constantly developing my programming skills. Here's a little bit about myself:
+Yo, welcome to my GitHub profile :)
+Here you can find my various projects. Some are planned. Some are in development. Some are already in forgotten plans. It's something like an "archive".. 
 
-👨‍💻 Interests: Programming, video editing, photoshop and more. I'm passionate about software development and building various creative projects, from games to graphic applications.
+🥷🏻 My interests: Of course programming. I'm also interested in many other things but I can't describe them.
 
-🎯 Goals: My goal is to master programming and become a highly skilled developer by understanding different aspects of technology and applying them to real-world projects. I strive for a deep understanding of programming languages, frameworks, and libraries.
-
-📫 How to contact me: You can write to me in Telegram @m1rrozZ. My channel: [m1rR's | Workspace](https://t.me/m1rrW)
+📫 Contacts: mail: contact@m1rrozz.dev | TG channel: [m1rR.]((https://t.me/f1rrozz))
