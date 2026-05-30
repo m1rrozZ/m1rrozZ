@@ -1,8 +1,9 @@
-# ✌️ Hello.. 
+# 👋 Hi, I'm Alex Morgan (aka m1rrozZ)
 
-Yo, welcome to my GitHub profile :)
-Here you can find my various projects. Some are planned. Some are in development. Some are already in forgotten plans. It's something like an "archive".. 
-
-🥷🏻 My interests: Of course programming. I'm also interested in many other things but I can't describe them.
-
-📫 Contacts: mail: contact@m1rrozz.dev 
+```json
+{
+  "role": "Quant Dev & Backend Engineer",
+  "organization": "Co-founder at Morgan Solutions",
+  "environment": "Neovim + tmux + Linux/macOS",
+  "philosophy": ["Clean Code", "Zero Technical Debt", "Performance First"]
+}
